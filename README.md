@@ -5,6 +5,10 @@
 <a href="https://velog.io/@choonbok22"><img src="https://img.shields.io/badge/ChoonB's%20Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
 <br>
 
+**🔎Dev Resume**
+<br>
+<a href="https://miniature-smelt-728.notion.site/002531c8f5444a01a7934cfd4625a802"><img src="https://img.shields.io/badge/KIMGEONYUL%20Resume-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+
 **📚 Tech Stack**
 <br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
