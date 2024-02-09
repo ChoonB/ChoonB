@@ -7,7 +7,7 @@
 
 **🔎Dev Resume**
 <br>
-<a href="https://miniature-smelt-728.notion.site/002531c8f5444a01a7934cfd4625a802"><img src="https://img.shields.io/badge/KIMGEONYUL%20Resume-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+<a href="https://miniature-smelt-728.notion.site/002531c8f5444a01a7934cfd4625a802"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 
 **📚 Tech Stack**
 <br>
