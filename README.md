@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&text=ChoonB's%20Github&desc=BackEnd%20Developer%20from%20Korea&theme=vue-dark)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&text=ChoonB's%20GitHub&desc=BackEnd%20Developer%20from%20Korea&theme=vue-dark)
 
 **🛠 Tech Blog**
 <br>
